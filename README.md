@@ -1,4 +1,4 @@
-# Comparison-of-Adam-AdamW-and-RMSProp-Optimizers-A-Deep-Learning-Study 
+# Comparison-of-Adam-AdamW-and-RMSProp-Optimizers-A-Deep-Learning-Study
 
 This repository contains three Jupyter notebooks that explore hyperparameter optimization for different optimizers using Optuna:
 - Adam optimizer (`Optuna_Adam.ipynb`)
